@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Your Database</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="view_data">View Data</string>
+    <string name="add_user">Add User</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="id">ID</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="search">Search</string>
+</resources>
